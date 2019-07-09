@@ -5,6 +5,8 @@
 
 - Drop support for legacy Python 2.7. [#153]
 
+- Add support for authenticated requests. [#157]
+
 0.9.3 (2019-05-30)
 ==================
 
